@@ -6,7 +6,7 @@ int main(){
     std::cin>>a;
     std::cout<<"введите число b"<<std::endl;
     std::cin>>b;
-    int sum = a+b;
+    int sum = a-b;
 
-    std::cout<<"Сумма чисел : "<<sum<<std::endl;
+    std::cout<<"Разница чисел : "<<sum<<std::endl;
 }
